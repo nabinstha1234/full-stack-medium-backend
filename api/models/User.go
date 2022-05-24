@@ -2,7 +2,7 @@ package models
 
 import (
 	"errors"
-	"forum/api/security"
+	"fullstack-medium-clone/api/security"
 	"github.com/badoux/checkmail"
 	"github.com/jinzhu/gorm"
 	"html"

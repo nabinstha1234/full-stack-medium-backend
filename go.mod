@@ -1,4 +1,4 @@
-module forum
+module fullstack-medium-clone
 
 go 1.18
 
@@ -8,7 +8,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.5.1 // indirect
 	github.com/andybalholm/cascadia v1.1.0 // indirect
 	github.com/aokoli/goutils v1.0.1 // indirect
-	github.com/aws/aws-sdk-go v1.44.19 // indirect
+	github.com/aws/aws-sdk-go v1.44.20 // indirect
 	github.com/badoux/checkmail v1.2.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
